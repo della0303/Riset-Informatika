@@ -18,7 +18,6 @@ Penelitian tentang Penerapan Metode Machine Learning untuk Analisis Data Keuanga
 - Seleksi Fitur: Memilih fitur atau variabel yang paling relevan dari berbagai faktor yang memengaruhi pasar saham adalah langkah penting. Seleksi fitur yang tepat dapat meningkatkan kinerja model.
 - Interpretabilitas Model: Dalam konteks keuangan, penting untuk dapat menjelaskan keputusan yang diambil oleh model. Model machine learning yang kompleks mungkin sulit diinterpretasi, sehingga perlu dicari cara untuk menjelaskan hasil prediksi secara mudah dimengerti.
 - Manajemen Risiko: Pengelolaan risiko adalah faktor kunci dalam keuangan. Bagaimana Anda mempertimbangkan faktor risiko dan pengelolaannya dalam strategi berdasarkan model machine learning
-- Evaluasi Kinerja: Bagaimana Anda akan mengukur kinerja model Anda dalam konteks keuangan? Apa metrik yang paling sesuai untuk digunakan?
 - Kepatuhan Regulasi: Di beberapa yurisdiksi, ada regulasi ketat terkait dengan analisis keuangan dan penggunaan teknik machine learning dalam keuangan. Maka perlu memastikan bahwa penelitian ini mematuhi regulasi tersebut.
 - Keamanan Data: Keamanan data sangat penting dalam analisis keuangan. Bagaimana melindungi data keuangan yang sensitif dan hasil analisis dari ancaman keamanan siber
 - Sumber Daya Komputasi: Model machine learning yang kompleks memerlukan sumber daya komputasi yang signifikan. Maka perlu mempertimbangkan infrastruktur yang diperlukan untuk menjalankan model Anda.
