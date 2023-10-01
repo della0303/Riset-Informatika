@@ -31,4 +31,11 @@ Penelitian tentang Penerapan Metode Machine Learning untuk Analisis Data Keuanga
 - Bagaimana menghasilkan hasil prediksi yang dapat diinterpretasikan dengan mudah dari model machine learning yang kompleks?
 - Bagaimana memasukkan faktor risiko dalam analisis dan pengambilan keputusan berdasarkan model machine learning?
 
-#
+# Teori-Keterkaitan
+- Teori Efisiensi Pasar (Efficient Market Hypothesis, EMH): Teori ini menyatakan bahwa harga saham mencerminkan semua informasi yang tersedia, sehingga sulit untuk menghasilkan keuntungan yang konsisten dengan menganalisis data historis. Meskipun demikian, beberapa bentuk analisis machine learning berusaha untuk menemukan anomali atau pola yang tidak efisien dalam pasar.
+- Teori Kecerdasan Buatan (Artificial Intelligence, AI) dan Machine Learning: Konsep dasar machine learning seperti pembelajaran supervised dan unsupervised, algoritma regresi, pohon keputusan, dan jaringan saraf tiruan adalah elemen-elemen yang sangat relevan dalam penerapan machine learning untuk analisis pasar saham.
+- Teori Model Regresi: Model regresi adalah dasar dari banyak metode machine learning dalam analisis pasar saham. Ini membantu mengidentifikasi hubungan antara variabel-variabel yang berpotensi memengaruhi harga saham atau kinerja perusahaan.
+- Teori Pengambilan Keputusan (Decision Theory): Teori ini membantu dalam merancang strategi pengambilan keputusan berdasarkan hasil analisis data keuangan. Ini mencakup pembuatan portofolio, penentuan strategi perdagangan, dan manajemen risiko.
+- Teori Probabilitas dan Statistik: Dasar probabilitas dan statistik sangat penting dalam analisis data keuangan. Ini membantu dalam pemodelan distribusi harga saham, estimasi parameter, dan mengukur ketidakpastian dalam prediksi.
+- Teori Manajemen Risiko (Risk Management): Dalam konteks analisis keuangan, manajemen risiko adalah konsep kunci. Ini melibatkan identifikasi, penilaian, dan pengelolaan risiko yang terkait dengan investasi di pasar saham.
+- Teori Analisis Sentimen (Sentiment Analysis): Dalam analisis pasar saham, analisis sentimen berfokus pada pemahaman perasaan dan opini publik yang dapat memengaruhi harga saham. Ini melibatkan pemrosesan bahasa alami dan teknik machine learning.
