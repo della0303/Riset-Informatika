@@ -1,40 +1,29 @@
-# TUGAS-1-MENCARI-TOPIK
-Nama  : Della Atika Putri
-
-NPM   : 20081010186
-
-Kelas : D081
+# TUGAS 1-MENCARI-TOPIK
+Nama  : Della Atika Putri <br>
+NPM   : 20081010186 <br>
+Kelas : D081 <br>
 
 # Topik-Penelitian
-Penerapan Metode Machine Learning untuk Analisis Data Keuangan atau Pasar Saham
+Pengembangan Portal Reservasi Restoran Berbasis Website dengan Menu Interaktif
 
 # Persoalan-Praktis
-Penelitian tentang Penerapan Metode Machine Learning untuk Analisis Data Keuangan atau Pasar Saham dapat menghadapi sejumlah persoalan praktis yang perlu dipecahkan. Berikut adalah persoalan praktis yang perlu diselesaikan
-- Kualitas Data: Data keuangan dan pasar saham seringkali tidak sempurna, dan dapat mengandung kehilangan data, kesalahan, atau anomali. Penting untuk merapikan dan memeriksa kualitas data sebelum digunakan dalam model.
-- Overfitting: Model machine learning dapat cenderung overfit pada data historis, yang dapat mengakibatkan model yang tidak dapat menggeneralisasi dengan baik ke situasi pasar yang berbeda. Penggunaan teknik seperti validasi silang dan regularisasi dapat membantu mengatasi masalah ini.
-- Manajemen Data Besar: Data keuangan seringkali sangat besar dan kompleks. Maka perlu merancang infrastruktur yang memungkinkan penyimpanan, pengambilan, dan pemrosesan data dengan efisien.
-- Sumber Data: Identifikasi sumber data yang paling relevan dan akurat dapat menjadi tantangan. Oleh karena itu, perlu memastikan bahwa data yang digunakan untuk analisis adalah data berkualitas tinggi dan aktual.
-- Volatilitas Pasar: Pasar saham dapat sangat volatile, dan perubahan tiba-tiba dalam kondisi pasar dapat mengganggu model yang dibangun pada data historis. 
-- Seleksi Fitur: Memilih fitur atau variabel yang paling relevan dari berbagai faktor yang memengaruhi pasar saham adalah langkah penting. Seleksi fitur yang tepat dapat meningkatkan kinerja model.
-- Interpretabilitas Model: Dalam konteks keuangan, penting untuk dapat menjelaskan keputusan yang diambil oleh model. Model machine learning yang kompleks mungkin sulit diinterpretasi, sehingga perlu dicari cara untuk menjelaskan hasil prediksi secara mudah dimengerti.
-- Manajemen Risiko: Pengelolaan risiko adalah faktor kunci dalam keuangan. Bagaimana Anda mempertimbangkan faktor risiko dan pengelolaannya dalam strategi berdasarkan model machine learning
-- Kepatuhan Regulasi: Di beberapa yurisdiksi, ada regulasi ketat terkait dengan analisis keuangan dan penggunaan teknik machine learning dalam keuangan. Maka perlu memastikan bahwa penelitian ini mematuhi regulasi tersebut.
-- Keamanan Data: Keamanan data sangat penting dalam analisis keuangan. Bagaimana melindungi data keuangan yang sensitif dan hasil analisis dari ancaman keamanan siber
-- Sumber Daya Komputasi: Model machine learning yang kompleks memerlukan sumber daya komputasi yang signifikan. Maka perlu mempertimbangkan infrastruktur yang diperlukan untuk menjalankan model Anda.
+Pengembangan Portal Reservasi Restoran Berbasis Website dengan Menu Interaktif melibatkan beberapa persoalan praktis yang perlu diselesaikan melalui penelitian. Berikut beberapa persoalan praktis yang dapat menjadi fokus penelitian dalam konteks ini: <br>
+- Usability dan User Experience (UX): Bagaimana merancang antarmuka pengguna yang mudah digunakan dan menyenangkan sehingga pelanggan dapat dengan mudah menavigasi portal reservasi dan berinteraksi dengan menu interaktif.
+- Efektivitas Rekomendasi Produk: Bagaimana meningkatkan efektivitas rekomendasi produk dalam menu interaktif berdasarkan preferensi pelanggan, sejarah pesanan, atau faktor lainnya.
+- Integrasi dengan Sistem Reservasi Restoran yang Ada: Bagaimana mengintegrasikan portal reservasi dengan sistem reservasi restoran yang sudah ada, sehingga reservasi dapat dikelola dengan efisien.
+- Ketersediaan dan Aktualisasi Menu: Bagaimana memastikan bahwa menu yang ditampilkan di portal selalu aktual dan mencerminkan menu aktual yang ditawarkan oleh restoran.
+- Privasi dan Keamanan Data Pelanggan: Bagaimana menjaga privasi data pelanggan yang disimpan dalam portal, terutama dalam konteks reservasi restoran yang melibatkan informasi pribadi.
 
 # Research-Question
-- Bagaimana cara mengatasi masalah kualitas data dalam analisis keuangan atau pasar saham menggunakan teknik machine learning?
-- Bagaimana mengembangkan model machine learning yang dapat mengatasi overfitting pada data historis pasar saham?
-- Bagaimana memilih dan menggabungkan sumber data yang paling relevan untuk analisis keuangan yang akurat?
-- Bagaimana mengembangkan model machine learning yang dapat menghadapi volatilitas pasar dan fluktuasi harga yang besar?
-- Bagaimana menghasilkan hasil prediksi yang dapat diinterpretasikan dengan mudah dari model machine learning yang kompleks?
-- Bagaimana memasukkan faktor risiko dalam analisis dan pengambilan keputusan berdasarkan model machine learning?
+- Bagaimana merancang antarmuka pengguna yang paling efektif untuk portal reservasi restoran agar pelanggan dapat dengan mudah melakukan reservasi dan menjelajahi menu?
+- Bagaimana mengintegrasikan portal reservasi restoran dengan sistem reservasi yang ada agar reservasi dapat dikelola secara real-time dan akurat?
+- Apa saja faktor-faktor yang memengaruhi pengalaman pengguna dalam menggunakan menu interaktif, dan bagaimana faktor-faktor tersebut dapat dioptimalkan?
+- Bagaimana memastikan bahwa data pelanggan dan reservasi disimpan dan dikelola secara aman sesuai dengan regulasi privasi data yang berlaku?
+- Bagaimana mengembangkan sistem notifikasi yang efektif untuk mengingatkan pelanggan tentang reservasi mereka, penawaran khusus, dan informasi penting lainnya?
 
 # Teori-Keterkaitan
-- Teori Efisiensi Pasar (Efficient Market Hypothesis, EMH): Teori ini menyatakan bahwa harga saham mencerminkan semua informasi yang tersedia, sehingga sulit untuk menghasilkan keuntungan yang konsisten dengan menganalisis data historis. Meskipun demikian, beberapa bentuk analisis machine learning berusaha untuk menemukan anomali atau pola yang tidak efisien dalam pasar.
-- Teori Kecerdasan Buatan (Artificial Intelligence, AI) dan Machine Learning: Konsep dasar machine learning seperti pembelajaran supervised dan unsupervised, algoritma regresi, pohon keputusan, dan jaringan saraf tiruan adalah elemen-elemen yang sangat relevan dalam penerapan machine learning untuk analisis pasar saham.
-- Teori Model Regresi: Model regresi adalah dasar dari banyak metode machine learning dalam analisis pasar saham. Ini membantu mengidentifikasi hubungan antara variabel-variabel yang berpotensi memengaruhi harga saham atau kinerja perusahaan.
-- Teori Pengambilan Keputusan (Decision Theory): Teori ini membantu dalam merancang strategi pengambilan keputusan berdasarkan hasil analisis data keuangan. Ini mencakup pembuatan portofolio, penentuan strategi perdagangan, dan manajemen risiko.
-- Teori Probabilitas dan Statistik: Dasar probabilitas dan statistik sangat penting dalam analisis data keuangan. Ini membantu dalam pemodelan distribusi harga saham, estimasi parameter, dan mengukur ketidakpastian dalam prediksi.
-- Teori Manajemen Risiko (Risk Management): Dalam konteks analisis keuangan, manajemen risiko adalah konsep kunci. Ini melibatkan identifikasi, penilaian, dan pengelolaan risiko yang terkait dengan investasi di pasar saham.
-- Teori Analisis Sentimen (Sentiment Analysis): Dalam analisis pasar saham, analisis sentimen berfokus pada pemahaman perasaan dan opini publik yang dapat memengaruhi harga saham. Ini melibatkan pemrosesan bahasa alami dan teknik machine learning.
+- Teori Interaksi Manusia-Komputer (Human-Computer Interaction, HCI): Teori HCI berkaitan dengan bagaimana manusia berinteraksi dengan sistem komputer, termasuk portal reservasi restoran. Ini membantu dalam merancang antarmuka pengguna yang lebih ramah dan intuitif.
+- Teori Desain Pengalaman Pengguna (User Experience, UX): Teori UX membantu dalam memahami bagaimana pengguna berinteraksi dengan portal dan bagaimana membuat pengalaman pengguna yang lebih baik, termasuk desain antarmuka, navigasi, dan responsivitas.
+- Teori Rekomendasi Produk: Dalam konteks menu interaktif, teori rekomendasi produk dapat membantu dalam merancang fitur yang merekomendasikan hidangan atau minuman kepada pelanggan berdasarkan preferensi mereka.
+- Teori Sistem Informasi (Information Systems Theory): Teori ini berkaitan dengan pengembangan dan pengelolaan sistem informasi. Dalam pengembangan portal reservasi restoran, teori ini dapat membantu dalam merancang struktur data yang efisien dan sistem manajemen data yang baik.
+- Teori Rekayasa Perangkat Lunak (Software Engineering Theory): Teori ini membahas praktik terbaik dalam pengembangan perangkat lunak, yang dapat diterapkan dalam mengembangkan dan memelihara portal reservasi.
