@@ -37,10 +37,22 @@ Metode adalah sebuah cara atau prosedur sistematis yang digunakan untuk mencapai
 
 Dalam konteks pengembangan portal reservasi restoran, dapat menggunakan pendekatan pengembangan perangkat lunak seperti Metode Scrum atau Metode Waterfall. Metodologi ini akan memandu bagaimana penelitian akan dilakukan, termasuk tahapan perencanaan, pengembangan, pengujian, dan implementasi portal.
 
+
 2. Metode:
 
 - Analisis Kebutuhan: Melakukan studi awal untuk memahami kebutuhan dan harapan pengguna portal reservasi restoran. Ini melibatkan wawancara dengan pemilik restoran, pelanggan, atau pihak terkait.
 
 - Desain Antarmuka Pengguna: Mengembangkan desain antarmuka pengguna yang interaktif untuk portal reservasi restoran. Ini termasuk perancangan halaman web, tata letak, dan elemen-elemen interaktif seperti menu interaktif.
-
+  
 - Pengembangan Website: Menerapkan desain antarmuka pengguna menjadi kode HTML, CSS, dan JavaScript. Menggunakan bahasa pemrograman dan kerangka kerja web yang sesuai.
+
+### Implementasi pada topik 
+
+1. Metodelogi yang tepat digunakan untuk pengembangan sistem ini yaitu metodelogi waterfall. Metodologi waterfall adalah pendekatan linier yang terdiri dari serangkaian fase yang berurutan, seperti analisis, desain, implementasi, pengujian, dan pemeliharaan. Metode ini cocok jika kebutuhan sistem telah ditentukan dengan jelas dan tidak berubah secara signifikan selama siklus pengembangan.
+2. Metode pengujian yang akan diimplementasikan untuk pengembangan sistem ini 
+- Pengujian Fungsional:
+  Memastikan bahwa setiap fungsi pada portal, seperti reservasi, pencarian restoran, dan interaktifitas menu, berjalan sesuai dengan spesifikasi yang telah ditentukan.
+- Pengujian Antar Muka Pengguna (UI):
+  Memeriksa antarmuka pengguna untuk memastikan bahwa desain UI konsisten, mudah dipahami, dan responsif pada berbagai perangkat.
+- Pengujian Antar Muka Pengguna (UX):
+  Mengevaluasi pengalaman pengguna secara keseluruhan, memastikan bahwa portal mudah digunakan dan memberikan pengalaman yang memuaskan bagi penggun
