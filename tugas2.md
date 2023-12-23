@@ -55,4 +55,10 @@ Dalam konteks pengembangan portal reservasi restoran, dapat menggunakan pendekat
 - Pengujian Antar Muka Pengguna (UI):
   Memeriksa antarmuka pengguna untuk memastikan bahwa desain UI konsisten, mudah dipahami, dan responsif pada berbagai perangkat.
 - Pengujian Antar Muka Pengguna (UX):
-  Mengevaluasi pengalaman pengguna secara keseluruhan, memastikan bahwa portal mudah digunakan dan memberikan pengalaman yang memuaskan bagi penggun
+  Mengevaluasi pengalaman pengguna secara keseluruhan, memastikan bahwa portal mudah digunakan dan memberikan pengalaman yang memuaskan bagi penggunjung
+
+### PENGUJIAN
+Pengembangan portal reservasi restoran berbasis website dengan menu interaktif melibatkan beberapa aspek, dan pemilihan metrik pengujian sangat tergantung pada tujuan dan fokus spesifik dari penelitian. Berikut adalah beberapa metrik yang mungkin relevan untuk menguji kinerja dan keberhasilan portal reservasi restoran tersebut:
+1. Waktu Reservasi digunakan mengukur waktu yang diperlukan bagi pengguna untuk menyelesaikan proses reservasi.
+2. Responsif Mobile untuk Menguji sejauh mana portal responsif terhadap berbagai perangkat mobile.
+3. Keamanan Data Pengguna karena Keamanan data adalah aspek kritis, terutama dalam konteks pengelolaan informasi pribadi pelanggan.
