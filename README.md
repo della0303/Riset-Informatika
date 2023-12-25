@@ -100,6 +100,14 @@ Untuk pengembangan portal reservasi restoran berbasis website dengan menu intera
 7. Dataset Pemesanan: Informasi pemesanan seperti nomor pemesanan, status pembayaran, dan informasi kontak pelanggan.
 8. Dataset Ketersediaan Meja: Informasi tentang meja yang tersedia, termasuk kapasitas dan status ketersediaan.
 
+### Evaluasi
+Dilakukan pengujian ini bertujuan untuk mengevaluasi aplikasi. Untuk mengevaluasi pengalaman pengguna aplikasi Pengujian dilakukan denganmelakukan pemberian selembaran kepada setiap
+responden. Berikut ialah hasil evaluasi pengujian
+1. Aplikasi mudah digunakan
+2. Desain menarik dengan tampilan seperti dengan objek aslinya
+3. Aplikasi dapat memberikan nilai tambah dan dapat memudahkan dalam pemesanan makanan
+4. Aplikasi dapat memberikan nilai tambah dan dapat memudahkan dalam pemesanan makanan.
+
 ### Referensi 
 Referensi jurnal terkait topik yang telah dipilih
 - http://eprints.uty.ac.id/2729/
