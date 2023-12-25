@@ -57,8 +57,20 @@ Dalam konteks pengembangan portal reservasi restoran, dapat menggunakan pendekat
 - Pengujian Antar Muka Pengguna (UX):
   Mengevaluasi pengalaman pengguna secara keseluruhan, memastikan bahwa portal mudah digunakan dan memberikan pengalaman yang memuaskan bagi penggunjung
 
-### METRIK PENGUJIAN
+### Metrik Pengujian
 Pengembangan portal reservasi restoran berbasis website dengan menu interaktif melibatkan beberapa aspek, dan pemilihan metrik pengujian sangat tergantung pada tujuan dan fokus spesifik dari penelitian. Berikut adalah beberapa metrik yang mungkin relevan untuk menguji kinerja dan keberhasilan portal reservasi restoran tersebut:
 1. Waktu Reservasi digunakan mengukur waktu yang diperlukan bagi pengguna untuk menyelesaikan proses reservasi.
 2. Responsif Mobile untuk Menguji sejauh mana portal responsif terhadap berbagai perangkat mobile.
 3. Keamanan Data Pengguna karena Keamanan data adalah aspek kritis, terutama dalam konteks pengelolaan informasi pribadi pelanggan.
+
+### Dataset
+Untuk pengembangan portal reservasi restoran berbasis website dengan menu interaktif, ada beberapa jenis dataset yang mungkin akan digunakan untuk proyek ini:
+
+1. Dataset Menu: Daftar menu restoran, termasuk nama makanan, harga, deskripsi, dan kategori.
+2. Dataset Reservasi: Data reservasi, termasuk nama pelanggan, jumlah orang, tanggal, dan waktu reservasi.
+3. Dataset Restoran: Informasi umum tentang restoran, seperti nama, alamat, nomor telepon, dan jam operasional.
+4. Dataset Ulasan Pelanggan: Ulasan pelanggan tentang makanan, pelayanan, dan suasana.
+5. Dataset Gambar Makanan: Gambar-gambar makanan untuk ditampilkan dalam menu interaktif.
+6. Dataset Lokasi: Data geografis atau peta restoran untuk integrasi dengan layanan peta.
+7. Dataset Pemesanan: Informasi pemesanan seperti nomor pemesanan, status pembayaran, dan informasi kontak pelanggan.
+8. Dataset Ketersediaan Meja: Informasi tentang meja yang tersedia, termasuk kapasitas dan status ketersediaan.
