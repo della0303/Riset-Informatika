@@ -83,3 +83,5 @@ Referensi jurnal terkait topik yang telah dipilih
 - http://eprints.uty.ac.id/2729/
 - http://ojs.udb.ac.id/index.php/Senatib/article/download/1804/1421
 - http://eprints.radenfatah.ac.id/1325/
+- https://journal.ubm.ac.id/index.php/jbase/article/view/1728/1457
+- 
