@@ -74,3 +74,12 @@ Untuk pengembangan portal reservasi restoran berbasis website dengan menu intera
 6. Dataset Lokasi: Data geografis atau peta restoran untuk integrasi dengan layanan peta.
 7. Dataset Pemesanan: Informasi pemesanan seperti nomor pemesanan, status pembayaran, dan informasi kontak pelanggan.
 8. Dataset Ketersediaan Meja: Informasi tentang meja yang tersedia, termasuk kapasitas dan status ketersediaan.
+   
+Berikut dataset untuk pengembangan portal reservasi restoran
+https://docs.google.com/spreadsheets/d/1prglryuA_Stw2qV6k72MTfQusIMvM8SwqN7mZgsKE6g/edit?usp=sharing
+
+### Referensi 
+Referensi jurnal terkait topik yang telah dipilih
+- http://eprints.uty.ac.id/2729/
+- http://ojs.udb.ac.id/index.php/Senatib/article/download/1804/1421
+- http://eprints.radenfatah.ac.id/1325/
